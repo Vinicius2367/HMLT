@@ -1,6 +1,6 @@
 <?php
 
-    $nome = $_POST ['nome'];
-    $sobrenome = $_POST ['sobrenome'];
+    $nome = $_POST ['Nome'];
+    $sobrenome = $_POST ['Sobrenome'];
 
     echo $nome. " ". $sobrenome;
