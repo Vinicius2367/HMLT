@@ -9,10 +9,10 @@
 <body>
     <form action="op.php" method="POST">
 
-        <label for="nome">nome</label>
-        <input type="text" id="nome" name="nome"><br><br>
+        <label for="">nome </label>
+        <input type="text" id="nome" nome="nome"><br><br>
 
-        <label for="sobrenome">sobrenome</label>
+        <label for="">sobrenome </label>
         <input type="text" id="sobrenome" name="sobrenome"><br><br>
 
         <input type="submit" value="enviar">
