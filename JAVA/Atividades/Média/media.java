@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class vetor4 {
+public class media {
 public static void main (String [] args){
     int cad = 0;
     
